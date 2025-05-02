@@ -16,8 +16,3 @@ El repositorio está compuesto por los siguientes elementos:
 Nota: Actualmente no está disponible una URL pública de la aplicación, ya que su publicación requiere una suscripción al plan estándar o superior.
 
 Información de contacto Autora:Martha Aguilar Jiménez, Correo electrónico:martha.aguilar@cimat.mx
-
-
-
-   
-Información de contacto Autora:Martha Aguilar Jiménez, Correo electrónico:martha.aguilar@cimat.mx
